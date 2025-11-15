@@ -1,12 +1,5 @@
 # [NullReferenceException](https://github.com/disahere)
-Welcome to my profile.I'm Nikita, 21 year old programmer from Khmelnitsky(ua), a motivated and talented Unity developer👨‍💻 specializing in game development, game hacking and software engineering for AR/VR projects.  🚀</div>  
-  
 
-- 🔭 My Own Game [The Eternal Darkness](https://github.com/disahere/The-Eternal-Darkness), [Spiral Escape](https://github.com/disahere/SpiralEscape), [Space A Boundless Odyssey ](https://github.com/disahere/EpiGuru)
-  
-
-- ❓ Ask me about anything related to game and software development.
-  
 - ⚡I am driven to improve my skills and embrace new challenges. With a strong work ethic and passion for game development, I am dedicated to continual growth in the industry. If you're looking for a valuable team member who is ready to contribute and create immersive experiences, I believe I can be a valuable addition. Let's collaborate and bring innovative ideas to life. 
 
 [![wakatime](https://wakatime.com/badge/user/5c3ab2ae-85cd-4879-8b50-f38f7149dd2d.svg)](https://wakatime.com/@kep452b)
